@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://silldaft.github.io/sitemap/sitemap.txt
